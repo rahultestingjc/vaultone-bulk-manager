@@ -1,0 +1,4 @@
+NAME*,URI*,SO*,PROTOCOL*,PORT*,Tags,CONNECTOR,Recording,GROUP_VIEW,GROUP_CONNECT,GROUP_MANAGE,USER_VIEW,USER_CONNECT,USER_MANAGE
+Web Server 01,192.168.1.16,Windows Server 2022,RDP,3389,Cloud;Production,Primary-Connector,Yes,Auditors,DBA,DBA,,user@example.com;devops@example.com,admin@example.com
+App Server 01,10.0.0.5,Ubuntu 22.04,SSH,22,Linux;Production,Primary-Connector,Yes,,DevOps,DevOps,,devops@example.com,admin@example.com
+Database 01,10.10.0.20,Windows Server 2019,RDP,3389,Database;Internal,Primary-Connector,No,Auditors,DBA,,audit@example.com,dba@example.com,admin@example.com

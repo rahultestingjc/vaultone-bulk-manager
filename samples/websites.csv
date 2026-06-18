@@ -1,0 +1,4 @@
+NAME*,URI*,Tags,CONNECTOR,WEBSHIELD,REVERSE_PROXY,AUTO_SUBMIT,GROUP_VIEW,GROUP_CONNECT,GROUP_MANAGE,USER_VIEW,USER_CONNECT,USER_MANAGE
+Company Mail,https://mail.example.com,Email;Cloud,Primary-Connector,Yes,No,Yes,,DBA,DBA,,user@example.com,admin@example.com
+Internal Portal,https://portal.internal.example,Internal,Primary-Connector,No,No,Yes,Auditors,DevOps,DevOps,,devops@example.com,admin@example.com
+Cloud Console,https://console.cloud.example,Cloud;Admin,Primary-Connector,Yes,No,No,,DBA,DBA,,admin@example.com,admin@example.com
